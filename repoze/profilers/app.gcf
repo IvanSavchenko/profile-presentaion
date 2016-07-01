@@ -1,0 +1,2411 @@
+events: Ticks
+summary: 17
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+fn=bind
+1202 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+cfn=__init__
+calls=5 1356
+1202 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_internal.py
+cfn=_encode_idna
+calls=5 290
+1202 0
+cfn=<method 'lower' of 'str' objects>
+calls=5 0
+1202 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=_validate_value
+1126 0
+cfn=<isinstance>
+calls=8 0
+1126 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=save_session
+827 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+cfn=save_session
+calls=5 315
+827 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_compat.py
+fn=<lambda>
+28 0
+cfn=<method 'iteritems' of 'dict' objects>
+calls=3 0
+28 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+fn=release_local
+28 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=__release_local__
+calls=10 65
+28 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=try_trigger_before_first_request_functions
+1483 0
+
+fn=<method 'split' of 'str' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=_get_status
+880 0
+
+fn=<len>
+0 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__len__
+calls=72 137
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+fn=get_signing_serializer
+290 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/itsdangerous.py
+cfn=__init__
+calls=5 512
+290 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/config.py
+cfn=__get__
+calls=10 27
+290 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+fn=Absent
+1215 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=__init__
+1947 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/sqlalchemy/orm/scoping.py
+fn=remove
+80 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/sqlalchemy/util/_collections.py
+cfn=clear
+calls=5 1002
+80 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/sqlalchemy/util/_collections.py
+cfn=has
+calls=5 992
+80 0
+
+fn=<map>
+0 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=fixup
+calls=26 101
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+fn=_code
+552 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=_compile
+calls=17 64
+552 2
+cfn=<method 'append' of 'list' objects>
+calls=17 0
+552 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=_compile_info
+calls=17 433
+552 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=get_app_iter
+1177 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wsgi.py
+cfn=__init__
+calls=7 685
+1177 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=iter_encoded
+calls=7 982
+1177 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=_get_status_code
+calls=7 867
+1177 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=closegroup
+85 0
+cfn=<method 'remove' of 'list' objects>
+calls=30 0
+85 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+fn=FileCookieJar
+1749 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+fn=save_session
+315 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+cfn=get_cookie_domain
+calls=5 198
+315 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+cfn=get_cookie_path
+calls=5 224
+315 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=_class_escape
+236 0
+cfn=<len>
+calls=7 0
+236 0
+cfn=<ord>
+calls=7 0
+236 0
+cfn=<method 'get' of 'dict' objects>
+calls=21 0
+236 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+fn=__getattr__
+68 0
+cfn=<thread.get_ident>
+calls=77 0
+68 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=__contains__
+1087 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__getitem__
+calls=7 911
+1087 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=make_response
+1532 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=force_type
+calls=2 814
+1532 13
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=__getattr__
+calls=2 340
+1532 0
+cfn=<isinstance>
+calls=15 0
+1532 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=__init__
+calls=3 756
+1532 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/itsdangerous.py
+fn=want_bytes
+61 0
+cfn=<isinstance>
+calls=10 0
+61 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/src/python/repoze/app/views/main.py
+fn=get
+12 0
+
+fn=<method 'groupdict' of '_sre.SRE_Match' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_internal.py
+fn=_cookie_parse_impl
+271 0
+cfn=<len>
+calls=5 0
+271 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/utils.py
+fn=escape
+298 0
+cfn=<method 'replace' of 'str' objects>
+calls=16 0
+298 0
+cfn=<hasattr>
+calls=4 0
+298 0
+cfn=<isinstance>
+calls=4 0
+298 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+fn=__init__
+101 0
+
+fn=<method 'decode' of 'str' objects>
+0 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/encodings/utf_8.py
+cfn=decode
+calls=15 15
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=set
+1145 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=_validate_value
+calls=8 1126
+1145 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=_unicodify_header_value
+calls=8 860
+1145 0
+cfn=<method 'lower' of 'str' objects>
+calls=10 0
+1145 0
+cfn=<method 'append' of 'list' objects>
+calls=8 0
+1145 0
+cfn=<iter>
+calls=5 0
+1145 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=__len__
+137 0
+cfn=<len>
+calls=273 0
+137 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_LWPCookieJar.py
+fn=<module>
+12 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_LWPCookieJar.py
+cfn=LWPCookieJar
+calls=1 49
+12 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/re.py
+fn=_compile
+230 0
+cfn=<len>
+calls=17 0
+230 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=compile
+calls=17 567
+230 6
+cfn=<isinstance>
+calls=17 0
+230 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=isstring
+calls=17 546
+230 0
+
+fn=<method 'upper' of 'unicode' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/json.py
+fn=dumps
+114 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py
+cfn=dumps
+calls=5 193
+114 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/json.py
+cfn=_dump_arg_defaults
+calls=5 94
+114 0
+cfn=<method 'pop' of 'dict' objects>
+calls=5 0
+114 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wsgi.py
+fn=__init__
+685 0
+cfn=<method 'insert' of 'list' objects>
+calls=7 0
+685 0
+cfn=<callable>
+calls=7 0
+685 0
+cfn=<iter>
+calls=7 0
+685 0
+cfn=<getattr>
+calls=7 0
+685 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+fn=match_request
+280 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+cfn=match
+calls=5 1425
+280 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=_parse_sub
+317 0
+cfn=<len>
+calls=67 0
+317 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__len__
+calls=14 137
+317 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__init__
+calls=7 92
+317 0
+cfn=<method 'append' of 'list' objects>
+calls=73 0
+317 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=append
+calls=7 149
+317 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__getitem__
+calls=18 141
+317 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=match
+calls=116 206
+317 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=_parse
+calls=73 395
+317 3
+
+fn=<method 'iteritems' of 'dict' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=dispatch_request
+1441 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/views.py
+cfn=view
+calls=3 82
+1441 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=raise_routing_exception
+calls=2 1425
+1441 0
+cfn=<getattr>
+calls=3 0
+1441 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=top
+calls=5 160
+1441 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_internal.py
+cfn=__get__
+calls=3 185
+1441 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+fn=_compile_charset
+228 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=_optimize_charset
+calls=88 256
+228 0
+cfn=<method 'extend' of 'list' objects>
+calls=7 0
+228 0
+cfn=<method 'append' of 'list' objects>
+calls=298 0
+228 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+fn=_optimize_charset
+256 0
+cfn=<len>
+calls=217 0
+256 0
+cfn=<map>
+calls=1 0
+256 0
+cfn=<method 'find' of 'bytearray' objects>
+calls=178 0
+256 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=_mk_bitmap
+calls=7 411
+256 0
+cfn=<method 'append' of 'list' objects>
+calls=152 0
+256 0
+cfn=<range>
+calls=13 0
+256 0
+
+fn=<method 'extend' of 'list' objects>
+0 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__len__
+calls=7 1101
+0 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__iter__
+calls=7 1097
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=trap_http_exception
+1332 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=cookies
+523 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/http.py
+cfn=parse_cookie
+calls=5 864
+523 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/itsdangerous.py
+fn=__init__
+512 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/itsdangerous.py
+cfn=want_bytes
+calls=10 61
+512 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/itsdangerous.py
+cfn=is_text_serializer
+calls=5 67
+512 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_compat.py
+fn=to_native
+114 0
+cfn=<isinstance>
+calls=16 0
+114 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+fn=run_wsgi_app
+844 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_internal.py
+cfn=_get_environ
+calls=2 68
+844 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__init__
+calls=2 903
+844 0
+cfn=<iter>
+calls=2 0
+844 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+cfn=__call__
+calls=2 148
+844 0
+cfn=<getattr>
+calls=2 0
+844 0
+
+fn=<method 'endswith' of 'str' objects>
+0 0
+
+fn=<method 'endswith' of 'unicode' objects>
+0 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+fn=CookieJar
+1217 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/re.py
+cfn=compile
+calls=5 192
+1217 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=__setitem__
+145 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/views.py
+fn=view
+82 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/views.py
+cfn=dispatch_request
+calls=3 142
+82 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=handle_http_exception
+1312 0
+cfn=<method 'get' of 'dict' objects>
+calls=4 0
+1312 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=__getattr__
+calls=2 340
+1312 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_MozillaCookieJar.py
+fn=MozillaCookieJar
+8 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=do_teardown_appcontext
+1717 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask_sqlalchemy/__init__.py
+cfn=shutdown_session
+calls=5 818
+1717 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/signals.py
+cfn=<lambda>
+calls=5 35
+1717 0
+cfn=<sys.exc_info>
+calls=5 0
+1717 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=request_context
+1745 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+cfn=__init__
+calls=5 219
+1745 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_internal.py
+fn=_get_environ
+68 0
+cfn=<getattr>
+calls=9 0
+68 0
+cfn=<isinstance>
+calls=9 0
+68 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=_set_status_code
+870 0
+cfn=<method 'upper' of 'str' objects>
+calls=5 0
+870 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+fn=_compile
+64 0
+cfn=<len>
+calls=380 0
+64 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=_compile_charset
+calls=87 228
+64 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=_compile
+calls=125 64
+64 1
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=_simple
+calls=62 428
+64 0
+cfn=<_sre.getlower>
+calls=22 0
+64 0
+cfn=<method 'append' of 'list' objects>
+calls=854 0
+64 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__getitem__
+calls=312 141
+64 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/http.py
+fn=_parse_pairs
+898 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_internal.py
+cfn=_cookie_parse_impl
+calls=5 271
+898 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+fn=pop
+169 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=do_teardown_appcontext
+calls=5 1717
+169 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=pop
+calls=5 147
+169 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/signals.py
+cfn=<lambda>
+calls=5 35
+169 0
+cfn=<sys.exc_info>
+calls=5 0
+169 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=__len__
+1101 0
+cfn=<len>
+calls=7 0
+1101 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+fn=update
+1329 0
+
+fn=<method 'search' of '_sre.SRE_Pattern' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/_compat.py
+fn=<lambda>
+44 0
+cfn=<method 'iteritems' of 'dict' objects>
+calls=5 0
+44 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=force_type
+814 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+cfn=run_wsgi_app
+calls=1 844
+814 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=_run_wsgi_app
+calls=1 51
+814 13
+cfn=<isinstance>
+calls=2 0
+814 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=__init__
+calls=2 756
+814 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=tell
+216 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+fn=__init__
+219 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+cfn=match_request
+calls=5 280
+219 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=create_url_adapter
+calls=5 1589
+219 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/module.py
+cfn=blueprint_is_module
+calls=3 17
+219 0
+cfn=<method 'get' of 'dict' objects>
+calls=3 0
+219 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=__init__
+calls=5 210
+219 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/wrappers.py
+cfn=blueprint
+calls=5 94
+219 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+fn=fixup
+101 0
+cfn=<_sre.getlower>
+calls=26 0
+101 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+fn=_simple
+428 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=getwidth
+calls=62 151
+428 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__getitem__
+calls=51 141
+428 0
+
+fn=<method 'replace' of 'str' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=create_url_adapter
+1589 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+cfn=bind_to_environ
+calls=5 1243
+1589 0
+
+fn=<ord>
+0 0
+
+fn=<thread.get_ident>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+fn=EnvironBuilder
+212 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+cfn=form_property
+calls=2 420
+212 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=get_wsgi_response
+1203 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=_get_status
+calls=7 880
+1203 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=get_app_iter
+calls=7 1177
+1203 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=to_wsgi_list
+calls=7 1213
+1203 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=get_wsgi_headers
+calls=7 1086
+1203 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+fn=DefaultCookiePolicy
+854 0
+
+fn=<method 'insert' of 'list' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+fn=open_session
+301 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+cfn=get_signing_serializer
+calls=5 290
+301 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/utils.py
+cfn=__get__
+calls=5 68
+301 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+cfn=__init__
+calls=5 112
+301 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=get
+calls=5 276
+301 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/config.py
+cfn=__get__
+calls=5 27
+301 0
+
+fn=<method 'find' of 'bytearray' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+fn=dumps
+60 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/json.py
+cfn=dumps
+calls=5 114
+60 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+cfn=_tag
+calls=5 61
+60 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=getwidth
+151 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=getwidth
+calls=124 151
+151 0
+cfn=<max>
+calls=20 0
+151 0
+cfn=<min>
+calls=302 0
+151 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/utils.py
+fn=__get__
+68 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=cookies
+calls=5 523
+68 0
+cfn=<method 'get' of 'dict' objects>
+calls=5 0
+68 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=_set_status
+883 0
+cfn=<method 'split' of 'str' objects>
+calls=2 0
+883 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_compat.py
+cfn=to_native
+calls=2 114
+883 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=__init__
+903 0
+cfn=<method 'extend' of 'list' objects>
+calls=11 0
+903 0
+cfn=<isinstance>
+calls=11 0
+903 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+fn=_make_iterencode
+272 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/re.py
+fn=compile
+192 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/re.py
+cfn=_compile
+calls=18 230
+192 6
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=do_teardown_request
+1696 0
+cfn=<method 'get' of 'dict' objects>
+calls=5 0
+1696 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/signals.py
+cfn=<lambda>
+calls=5 35
+1696 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=top
+calls=5 160
+1696 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/wrappers.py
+cfn=blueprint
+calls=5 94
+1696 0
+cfn=<sys.exc_info>
+calls=5 0
+1696 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+fn=_iterencode_dict
+341 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+fn=pop
+325 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+cfn=pop
+calls=5 169
+325 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=do_teardown_request
+calls=5 1696
+325 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=pop
+calls=5 147
+325 0
+cfn=<sys.exc_clear>
+calls=5 0
+325 0
+cfn=<method 'pop' of 'list' objects>
+calls=5 0
+325 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=close
+calls=5 383
+325 0
+cfn=<hasattr>
+calls=5 0
+325 0
+cfn=<getattr>
+calls=5 0
+325 0
+cfn=<sys.exc_info>
+calls=5 0
+325 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+fn=_mk_bitmap
+411 0
+cfn=<len>
+calls=7 0
+411 0
+cfn=<method 'translate' of 'str' objects>
+calls=7 0
+411 0
+cfn=<range>
+calls=7 0
+411 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_compat.py
+fn=to_unicode
+198 0
+cfn=<method 'decode' of 'str' objects>
+calls=20 0
+198 0
+cfn=<isinstance>
+calls=30 0
+198 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+fn=get_cookie_domain
+198 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+fn=pop
+147 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=release_local
+calls=10 28
+147 0
+cfn=<len>
+calls=10 0
+147 0
+cfn=<getattr>
+calls=10 0
+147 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/http.py
+fn=parse_cookie
+864 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/http.py
+cfn=_parse_pairs
+calls=5 898
+864 0
+cfn=<method 'get' of 'dict' objects>
+calls=5 0
+864 0
+cfn=<isinstance>
+calls=10 0
+864 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+fn=Client
+607 0
+
+fn=<max>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+fn=is_null_session
+189 0
+cfn=<isinstance>
+calls=5 0
+189 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+fn=Cookie
+723 0
+
+fn=<method 'rsplit' of 'str' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/module.py
+fn=blueprint_is_module
+17 0
+cfn=<isinstance>
+calls=3 0
+17 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=_unicodify_header_value
+860 0
+cfn=<method 'decode' of 'str' objects>
+calls=8 0
+860 0
+cfn=<isinstance>
+calls=16 0
+860 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=_run_wsgi_app
+51 1
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+cfn=run_wsgi_app
+calls=1 844
+51 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+cfn=<module>
+calls=1 10
+51 11
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/exthook.py
+cfn=find_module
+calls=1 51
+51 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+fn=get_description
+111 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/utils.py
+cfn=escape
+calls=2 298
+111 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+fn=__setattr__
+74 0
+cfn=<thread.get_ident>
+calls=10 0
+74 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=__next
+193 0
+cfn=<len>
+calls=2307 0
+193 0
+
+fn=<sys.exc_clear>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=<lambda>
+604 0
+cfn=<method 'upper' of 'str' objects>
+calls=6 0
+604 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=iter_encoded
+982 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=_warn_if_string
+calls=7 60
+982 0
+
+fn=<method 'pop' of 'list' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=set_data
+912 0
+cfn=<len>
+calls=5 0
+912 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__setitem__
+calls=5 1192
+912 0
+cfn=<method 'encode' of 'unicode' objects>
+calls=2 0
+912 0
+cfn=<isinstance>
+calls=5 0
+912 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_compat.py
+fn=wsgi_decoding_dance
+97 0
+cfn=<method 'decode' of 'str' objects>
+calls=15 0
+97 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=_warn_if_string
+60 0
+cfn=<isinstance>
+calls=7 0
+60 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+fn=<module>
+10 2
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+cfn=EnvironBuilder
+calls=1 212
+10 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+cfn=Client
+calls=1 607
+10 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+cfn=_TestCookieResponse
+calls=1 155
+10 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+cfn=<module>
+calls=1 26
+10 9
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/exthook.py
+cfn=find_module
+calls=2 51
+10 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+cfn=_TestCookieJar
+calls=1 168
+10 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+cfn=ClientRedirectError
+calls=1 599
+10 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+cfn=_TestCookieHeaders
+calls=1 131
+10 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+fn=__init__
+112 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__init__
+calls=5 1947
+112 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py
+fn=dumps
+193 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+cfn=__init__
+calls=5 101
+193 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+cfn=encode
+calls=5 186
+193 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/sqlalchemy/util/_collections.py
+fn=clear
+1002 0
+cfn=<thread.get_ident>
+calls=5 0
+1002 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+fn=get_headers
+128 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+fn=push
+291 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=app_context
+calls=5 1730
+291 0
+cfn=<method 'append' of 'list' objects>
+calls=5 0
+291 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=top
+calls=10 160
+291 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=push
+calls=5 139
+291 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=open_session
+calls=5 817
+291 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+cfn=push
+calls=5 163
+291 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=app_context
+1730 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+cfn=__init__
+calls=5 154
+1730 0
+
+fn=<_sre.compile>
+0 0
+
+fn=<method 'get' of 'dict' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=__getitem__
+911 0
+cfn=<method 'lower' of 'str' objects>
+calls=11 0
+911 0
+cfn=<isinstance>
+calls=7 0
+911 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+fn=__init__
+1356 0
+cfn=<method 'endswith' of 'unicode' objects>
+calls=5 0
+1356 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_compat.py
+cfn=to_unicode
+calls=30 198
+1356 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=to_wsgi_list
+1213 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_compat.py
+cfn=to_native
+calls=14 114
+1213 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__iter__
+calls=7 1097
+1213 0
+cfn=<method 'encode' of 'str' objects>
+calls=6 0
+1213 0
+cfn=<method 'encode' of 'unicode' objects>
+calls=8 0
+1213 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+fn=name
+106 0
+cfn=<method 'get' of 'dict' objects>
+calls=2 0
+106 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=close
+383 0
+cfn=<method 'get' of 'dict' objects>
+calls=5 0
+383 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=iter_multi_items
+calls=5 31
+383 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+fn=<genexpr>
+75 0
+
+fn=<callable>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=iter_multi_items
+31 0
+cfn=<isinstance>
+calls=10 0
+31 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=get
+212 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__next
+calls=1059 193
+212 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=should_ignore_error
+1522 0
+
+fn=<_codecs.utf_8_decode>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+fn=__release_local__
+65 0
+cfn=<thread.get_ident>
+calls=10 0
+65 0
+cfn=<method 'pop' of 'dict' objects>
+calls=10 0
+65 0
+
+fn=<min>
+0 0
+
+fn=<method 'remove' of 'list' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_internal.py
+fn=_encode_idna
+290 0
+cfn=<method 'decode' of 'str' objects>
+calls=5 0
+290 0
+cfn=<isinstance>
+calls=5 0
+290 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=preprocess_request
+1644 0
+cfn=<method 'get' of 'dict' objects>
+calls=10 0
+1644 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=top
+calls=5 160
+1644 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/wrappers.py
+cfn=blueprint
+calls=5 94
+1644 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+fn=_iterencode
+417 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+cfn=_iterencode_dict
+calls=10 341
+417 0
+cfn=<isinstance>
+calls=25 0
+417 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=__call__
+1220 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=get_wsgi_response
+calls=7 1203
+1220 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+cfn=start_response
+calls=2 865
+1220 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/serving.py
+cfn=start_response
+calls=5 168
+1220 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask_sqlalchemy/__init__.py
+fn=shutdown_session
+818 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/sqlalchemy/orm/scoping.py
+cfn=remove
+calls=5 80
+818 0
+
+fn=<filter>
+0 0
+
+fn=<_sre.getlower>
+0 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+fn=encode
+186 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+cfn=_iterencode
+calls=10 417
+186 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+cfn=iterencode
+calls=5 212
+186 0
+cfn=<method 'join' of 'str' objects>
+calls=5 0
+186 0
+cfn=<isinstance>
+calls=10 0
+186 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=process_response
+1670 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=save_session
+calls=5 827
+1670 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+cfn=is_null_session
+calls=5 189
+1670 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=top
+calls=5 160
+1670 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/wrappers.py
+cfn=blueprint
+calls=5 94
+1670 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_MozillaCookieJar.py
+fn=<module>
+1 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_MozillaCookieJar.py
+cfn=MozillaCookieJar
+calls=1 8
+1 0
+
+fn=<method 'setdefault' of 'dict' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=__init__
+92 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+fn=compile
+567 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=_code
+calls=17 552
+567 2
+cfn=<_sre.compile>
+calls=17 0
+567 0
+cfn=<method 'items' of 'dict' objects>
+calls=17 0
+567 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=parse
+calls=17 706
+567 3
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=isstring
+calls=17 546
+567 0
+
+fn=<method 'translate' of 'str' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=__init__
+189 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__next
+calls=17 193
+189 0
+
+fn=<hasattr>
+0 0
+
+fn=<method 'lower' of 'str' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/itsdangerous.py
+fn=is_text_serializer
+67 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+cfn=dumps
+calls=5 60
+67 0
+cfn=<isinstance>
+calls=5 0
+67 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=__setitem__
+1192 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=set
+calls=8 1145
+1192 0
+cfn=<isinstance>
+calls=8 0
+1192 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wsgi.py
+fn=__iter__
+699 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+fn=get_response
+132 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_internal.py
+cfn=_get_environ
+calls=2 68
+132 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+cfn=get_headers
+calls=2 128
+132 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+cfn=get_body
+calls=2 115
+132 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=__init__
+calls=2 756
+132 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+fn=_tag
+61 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/_compat.py
+cfn=<lambda>
+calls=5 44
+61 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+cfn=<genexpr>
+calls=5 75
+61 0
+cfn=<callable>
+calls=5 0
+61 0
+cfn=<getattr>
+calls=5 0
+61 0
+cfn=<isinstance>
+calls=30 0
+61 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+fn=iterencode
+212 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py
+cfn=_make_iterencode
+calls=5 272
+212 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+fn=match
+744 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_compat.py
+cfn=<lambda>
+calls=3 28
+744 0
+cfn=<method 'groupdict' of '_sre.SRE_Match' objects>
+calls=3 0
+744 0
+cfn=<method 'search' of '_sre.SRE_Pattern' objects>
+calls=27 0
+744 0
+cfn=<method 'pop' of 'dict' objects>
+calls=3 0
+744 0
+
+fn=<method 'items' of 'dict' objects>
+0 0
+
+fn=<method 'append' of 'list' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/signals.py
+fn=<lambda>
+35 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=append
+149 0
+cfn=<method 'append' of 'list' objects>
+calls=214 0
+149 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=_get_status_code
+867 0
+
+fn=<iter>
+0 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wsgi.py
+cfn=__iter__
+calls=2 699
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=__iter__
+1097 0
+cfn=<iter>
+calls=21 0
+1097 0
+
+fn=<method 'startswith' of 'str' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=full_dispatch_request
+1463 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=try_trigger_before_first_request_functions
+calls=5 1483
+1463 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=make_response
+calls=5 1532
+1463 13
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=dispatch_request
+calls=5 1441
+1463 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=preprocess_request
+calls=5 1644
+1463 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=process_response
+calls=5 1670
+1463 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/signals.py
+cfn=<lambda>
+calls=10 35
+1463 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=handle_user_exception
+calls=2 1352
+1463 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+fn=get
+276 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+fn=__call__
+148 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=__call__
+calls=2 1220
+148 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+cfn=get_response
+calls=2 132
+148 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=parse
+706 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=_parse_sub
+calls=17 317
+706 3
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=get
+calls=17 212
+706 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__init__
+calls=17 189
+706 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__init__
+calls=17 67
+706 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+fn=match
+1425 0
+cfn=<method 'upper' of 'unicode' objects>
+calls=5 0
+1425 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+cfn=update
+calls=5 1329
+1425 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+cfn=match
+calls=27 744
+1425 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+cfn=__init__
+calls=2 86
+1425 0
+cfn=<method 'lstrip' of 'unicode' objects>
+calls=5 0
+1425 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+cfn=get_default_redirect
+calls=3 1611
+1425 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=wsgi_app
+1787 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=request_context
+calls=5 1745
+1787 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+cfn=push
+calls=5 291
+1787 1
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=should_ignore_error
+calls=5 1522
+1787 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=__call__
+calls=5 1220
+1787 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=full_dispatch_request
+calls=5 1463
+1787 14
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+cfn=auto_pop
+calls=5 368
+1787 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+fn=_get_current_object
+296 0
+cfn=<hasattr>
+calls=27 0
+296 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/globals.py
+cfn=_find_app
+calls=20 31
+296 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/globals.py
+cfn=_lookup_req_object
+calls=7 17
+296 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=raise_routing_exception
+1425 0
+cfn=<isinstance>
+calls=2 0
+1425 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/config.py
+cfn=__get__
+calls=2 27
+1425 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=__init__
+210 0
+
+fn=<getattr>
+0 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=__getattr__
+calls=20 68
+0 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/wrappers.py
+cfn=blueprint
+calls=2 94
+0 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_internal.py
+cfn=__get__
+calls=3 185
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/encodings/utf_8.py
+fn=decode
+15 0
+cfn=<_codecs.utf_8_decode>
+calls=15 0
+15 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=handle_user_exception
+1352 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=trap_http_exception
+calls=2 1332
+1352 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=handle_http_exception
+calls=2 1312
+1352 0
+cfn=<isinstance>
+calls=2 0
+1352 0
+cfn=<sys.exc_info>
+calls=2 0
+1352 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+fn=top
+160 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=__getattr__
+calls=57 68
+160 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=opengroup
+74 0
+cfn=<method 'append' of 'list' objects>
+calls=30 0
+74 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+fn=get_body
+115 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/utils.py
+cfn=escape
+calls=2 298
+115 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+cfn=get_description
+calls=2 111
+115 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+cfn=name
+calls=2 106
+115 0
+
+fl=<string>
+fn=<module>
+3 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=wsgi_app
+calls=5 1787
+3 17
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+fn=_TestCookieResponse
+155 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/exceptions.py
+fn=__init__
+86 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/sqlalchemy/util/_collections.py
+fn=has
+992 0
+cfn=<thread.get_ident>
+calls=5 0
+992 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+fn=<module>
+26 1
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+cfn=Absent
+calls=1 1215
+26 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+cfn=FileCookieJar
+calls=1 1749
+26 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_LWPCookieJar.py
+cfn=<module>
+calls=1 12
+26 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+cfn=CookieJar
+calls=1 1217
+26 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+cfn=DefaultCookiePolicy
+calls=1 854
+26 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/re.py
+cfn=compile
+calls=13 192
+26 6
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+cfn=Cookie
+calls=1 723
+26 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_MozillaCookieJar.py
+cfn=<module>
+calls=1 1
+26 0
+cfn=<method 'lower' of 'str' objects>
+calls=12 0
+26 0
+cfn=<method 'append' of 'list' objects>
+calls=12 0
+26 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/exthook.py
+cfn=find_module
+calls=2 51
+26 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+cfn=LoadError
+calls=1 1747
+26 0
+cfl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+cfn=CookiePolicy
+calls=1 821
+26 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+fn=__getattr__
+340 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=_get_current_object
+calls=22 296
+340 0
+cfn=<getattr>
+calls=22 0
+340 0
+
+fn=<method 'encode' of 'str' objects>
+0 0
+
+fn=<method 'lstrip' of 'unicode' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/exthook.py
+fn=find_module
+51 0
+cfn=<method 'startswith' of 'str' objects>
+calls=5 0
+51 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=__getitem__
+141 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__init__
+calls=62 92
+141 0
+cfn=<isinstance>
+calls=570 0
+141 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+fn=_TestCookieJar
+168 0
+
+fn=<method 'join' of 'str' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=__init__
+67 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+fn=push
+139 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=__setattr__
+calls=10 74
+139 0
+cfn=<method 'append' of 'list' objects>
+calls=10 0
+139 0
+cfn=<getattr>
+calls=10 0
+139 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/wrappers.py
+fn=blueprint
+94 0
+cfn=<method 'rsplit' of 'str' objects>
+calls=12 0
+94 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/json.py
+fn=_dump_arg_defaults
+94 0
+cfn=<method 'setdefault' of 'dict' objects>
+calls=10 0
+94 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=__getattr__
+calls=15 340
+94 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=__bool__
+calls=5 322
+94 0
+
+fn=<method 'encode' of 'unicode' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/utils.py
+fn=lookup
+102 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+fn=open_session
+817 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+cfn=open_session
+calls=5 301
+817 0
+
+fn=<method 'upper' of 'str' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+fn=start_response
+865 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/utils.py
+fn=get_content_type
+215 0
+cfn=<method 'startswith' of 'str' objects>
+calls=3 0
+215 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+fn=auto_pop
+368 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+cfn=pop
+calls=5 325
+368 0
+cfn=<method 'get' of 'dict' objects>
+calls=5 0
+368 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_LWPCookieJar.py
+fn=LWPCookieJar
+49 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+fn=get_default_redirect
+1611 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+fn=ClientRedirectError
+599 0
+
+fn=<range>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+fn=bind_to_environ
+1243 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+cfn=bind
+calls=5 1202
+1243 0
+cfn=<method 'split' of 'str' objects>
+calls=10 0
+1243 0
+cfn=<len>
+calls=5 0
+1243 0
+cfn=<method 'endswith' of 'str' objects>
+calls=5 0
+1243 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_internal.py
+cfn=_get_environ
+calls=5 68
+1243 0
+cfn=<filter>
+calls=5 0
+1243 0
+cfn=<method 'lower' of 'str' objects>
+calls=5 0
+1243 0
+cfn=<method 'join' of 'str' objects>
+calls=5 0
+1243 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+cfn=_get_wsgi_string
+calls=15 1316
+1243 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_internal.py
+fn=__get__
+185 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=<lambda>
+calls=6 604
+185 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/utils.py
+cfn=lookup
+calls=6 102
+185 0
+
+fn=<isinstance>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/serving.py
+fn=start_response
+168 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=match
+206 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__next
+calls=103 193
+206 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=is_sequence
+1045 0
+cfn=<isinstance>
+calls=7 0
+1045 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+fn=_compile_info
+433 0
+cfn=<len>
+calls=57 0
+433 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__len__
+calls=1 137
+433 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+cfn=_compile_charset
+calls=1 228
+433 0
+cfn=<method 'extend' of 'list' objects>
+calls=8 0
+433 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=getwidth
+calls=17 151
+433 0
+cfn=<method 'append' of 'list' objects>
+calls=87 0
+433 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__getitem__
+calls=3 141
+433 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=_escape
+268 0
+cfn=<len>
+calls=8 0
+268 0
+cfn=<ord>
+calls=8 0
+268 0
+cfn=<method 'get' of 'dict' objects>
+calls=83 0
+268 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=__init__
+756 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__contains__
+calls=7 1087
+756 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=_set_status_code
+calls=5 870
+756 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=_set_status
+calls=2 883
+756 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__init__
+calls=5 903
+756 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=set_data
+calls=5 912
+756 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__setitem__
+calls=3 1192
+756 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/utils.py
+cfn=get_content_type
+calls=3 215
+756 0
+cfn=<isinstance>
+calls=21 0
+756 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+fn=__init__
+154 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/app.py
+cfn=create_url_adapter
+calls=5 1589
+154 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+fn=_TestCookieHeaders
+131 0
+
+fn=<method 'pop' of 'dict' objects>
+0 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+fn=LoadError
+1747 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/globals.py
+fn=_find_app
+31 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=top
+calls=20 160
+31 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_compile.py
+fn=isstring
+546 0
+cfn=<isinstance>
+calls=34 0
+546 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/routing.py
+fn=_get_wsgi_string
+1316 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/_compat.py
+cfn=wsgi_decoding_dance
+calls=15 97
+1316 0
+cfn=<method 'get' of 'dict' objects>
+calls=15 0
+1316 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/globals.py
+fn=_lookup_req_object
+17 0
+cfn=<getattr>
+calls=7 0
+17 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=top
+calls=7 160
+17 0
+
+fl=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cookielib.py
+fn=CookiePolicy
+821 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+fn=_parse
+395 1
+cfn=<len>
+calls=116 0
+395 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=closegroup
+calls=30 85
+395 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=_class_escape
+calls=12 236
+395 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__len__
+calls=186 137
+395 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=_parse_sub
+calls=43 317
+395 1
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__setitem__
+calls=62 145
+395 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=tell
+calls=2 216
+395 0
+cfn=<ord>
+calls=113 0
+395 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=get
+calls=1042 212
+395 1
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__init__
+calls=73 92
+395 0
+cfn=<method 'append' of 'list' objects>
+calls=71 0
+395 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=append
+calls=207 149
+395 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=opengroup
+calls=30 74
+395 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=__getitem__
+calls=186 141
+395 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=match
+calls=271 206
+395 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/sre_parse.py
+cfn=_escape
+calls=73 268
+395 0
+
+fn=<sys.exc_info>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/sessions.py
+fn=get_cookie_path
+224 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/config.py
+fn=__get__
+27 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/test.py
+fn=form_property
+420 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/views.py
+fn=dispatch_request
+142 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/src/python/repoze/app/views/main.py
+cfn=get
+calls=3 12
+142 0
+cfn=<method 'lower' of 'str' objects>
+calls=3 0
+142 0
+cfn=<getattr>
+calls=3 0
+142 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=__getattr__
+calls=3 340
+142 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+fn=get_wsgi_headers
+1086 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__init__
+calls=7 903
+1086 0
+cfn=<method 'lower' of 'str' objects>
+calls=14 0
+1086 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=_get_status_code
+calls=7 867
+1086 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/datastructures.py
+cfn=__iter__
+calls=7 1097
+1086 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/wrappers.py
+cfn=is_sequence
+calls=7 1045
+1086 0
+
+fn=<method 'disable' of '_lsprof.Profiler' objects>
+0 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+fn=__bool__
+322 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=_get_current_object
+calls=5 296
+322 0
+
+fl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/ctx.py
+fn=push
+163 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/flask/signals.py
+cfn=<lambda>
+calls=5 35
+163 0
+cfl=/Users/ThisIsPaba/virtualenvs/ss-presentation/env/lib/python2.7/site-packages/werkzeug/local.py
+cfn=push
+calls=5 139
+163 0
+

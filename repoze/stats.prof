@@ -1,0 +1,12 @@
+What a nice day!
+YEAH! IT IS
+         3 function calls in 6.890 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    6.890    6.890 cpu1.py:1(<module>)
+        1    6.890    6.890    6.890    6.890 cpu1.py:1(main)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+

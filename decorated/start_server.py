@@ -1,0 +1,5 @@
+"""Main module."""
+import app
+
+if __name__ == '__main__':
+    app.FlaskManager.run()
